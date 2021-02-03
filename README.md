@@ -226,7 +226,7 @@ Représentation graphique :
 <p align="center"><img src="https://i.imgur.com/Zb43qOi.png" /></p>
 
 ---
-Si la difficulté n'est pas réglée sur facile, la fonction **hunt()** s'exécute et va chercher les bateaux partiellement coulés afin de terminer leur destruction.
+La fonction **hunt()** va ensuite s'exécuter et va chercher les bateaux partiellement coulés afin de terminer leur destruction.
 ```py
 def hunt(self):
     board = self.attack_board.board
