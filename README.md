@@ -303,3 +303,5 @@ La Heatmap modifiée ressemble alors à ça :
 
 <br>
 <p align="center"><img src="https://i.imgur.com/TbJ6AWq.gif" /></p>
+
+Merci à <a href="https://github.com/mitchelljy">Mitchelljy</a> ayant permis de trouver une base sur laquelle partir.
