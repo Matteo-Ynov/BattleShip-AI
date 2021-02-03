@@ -37,6 +37,7 @@ Le jeu comprend 3 niveaux de difficulté : facile, moyen et difficile. Selon la 
 * En moyen, l'IA ne va plus tirer aléatoirement mais utiliser les statistiques afin de déterminer le coup ayant la plus grande probabilité de toucher un bateau.
 * En difficile, l'IA agira de la même manière qu'en moyen mais tirera avec un patterne de 
 grille : chaque bateau faisant au moins 2 de longueur, tirer de cette manière garantie de toucher tous les bateaux en un minimum de coup :
+
 ![](https://i.imgur.com/3ch7Hx7.png)
 
 
