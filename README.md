@@ -38,7 +38,8 @@ Le jeu comprend 3 niveaux de difficulté : facile, moyen et difficile. Selon la 
 * En difficile, l'IA agira de la même manière qu'en moyen mais tirera avec un patterne de 
 grille : chaque bateau faisant au moins 2 de longueur, tirer de cette manière garantie de toucher tous les bateaux en un minimum de coup :
 
-![](https://i.imgur.com/3ch7Hx7.png)
+<div style="text-align:center"><img src="https://i.imgur.com/3ch7Hx7.png" /></div>
+
 
 
 
@@ -203,7 +204,8 @@ En difficulté moyenne, la heatmap ressemble généralement à ça lors du premi
 1883, (2, 5): 2142, (3, 5): 2246, (4, 2): 2268, (4, 3): 2300, (4, 1): 1919, (4, 4): 2433, (6, 3): 2184, (6, 4): 2268, (6, 5): 2274, (5, 5): 2375, (2, 4): 2152, (3, 4): 2286, (2, 6): 2076, (2, 7): 1940, (2, 9): 1307, (0, 9): 675, (1, 9): 1024, (8, 6): 1785, (9, 6): 1467, (1, 1): 1331, (1, 3): 1765, (1, 4): 1893, (9, 5): 1530, (9, 7): 1281, (9, 8): 1048, (8, 8): 1312, (7, 4): 2116, (8, 4): 1896, (8, 5): 1911, (6, 2): 2165, (3, 2): 2126, (9, 2): 1297, (9, 3): 1433, (9, 4): 1483, (3, 6): 2192, (9, 1): 1077, (1, 7): 1628, (6, 8): 1718, (9, 0): 698, (7, 5): 2137, (7, 6): 1981, (3, 1): 1764, (3, 3): 2193, (2, 0): 1256, (1, 6): 1770, (2, 3): 1968, (4, 5): 2325, (7, 8): 1592, (3, 0): 1480, (3, 9): 1426, (2, 1): 1587}``
 
 Représentation graphique :
-![](https://i.imgur.com/Zb43qOi.png)
+
+<div style="text-align:center"><img src="https://i.imgur.com/Zb43qOi.png" /></div>
 
 ---
 Si la difficulté n'est pas réglée sur facile, la fonction **hunt()** s'exécute et va chercher les bateaux partiellement coulés afin de terminer leur destruction.
@@ -264,27 +266,40 @@ def hunt(self):
                                 pass
 ```
 La Heatmap modifiée ressemble alors à ça :
-![](https://i.imgur.com/kteWLPg.png)
+<div style="text-align:center"><img src="https://i.imgur.com/kteWLPg.png" /></div>
 
 
 ## VII) Captures d'écran
 
 ### Écran de placement des bateaux
-![](https://i.imgur.com/JNvk36R.png)
+
+<br>
+<div style="text-align:center"><img src="https://i.imgur.com/JNvk36R.png" /></div>
+<br>
 
 ---
 ### Bateaux placés prêts à être validé
-![](https://i.imgur.com/aIaHQzZ.png)
+
+<br>
+<div style="text-align:center"><img src="https://i.imgur.com/aIaHQzZ.png" /></div>
+<br>
 
 ---
 ### Début de partie
-![](https://i.imgur.com/GwgEdwe.png)
+
+<br>
+<div style="text-align:center"><img src="https://i.imgur.com/GwgEdwe.png" /></div>
+<br>
 
 ---
 ### Partie commencé
-![](https://i.imgur.com/qmHtoi0.png)
+
+<br>
+<div style="text-align:center"><img src="https://i.imgur.com/qmHtoi0.png" /></div>
+<br>
 
 ---
 ### Représentation graphique de la pensée de l'IA durant la partie
-![](https://i.imgur.com/TbJ6AWq.gif)
 
+<br>
+<div style="text-align:center"><img src="https://i.imgur.com/TbJ6AWq.gif" /></div>
