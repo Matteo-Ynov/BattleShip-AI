@@ -38,7 +38,7 @@ Le jeu comprend 3 niveaux de difficulté : facile, moyen et difficile. Selon la 
 * En difficile, l'IA agira de la même manière qu'en moyen mais tirera avec un patterne de 
 grille : chaque bateau faisant au moins 2 de longueur, tirer de cette manière garantie de toucher tous les bateaux en un minimum de coup :
 
-<div style="text-align:center"><img src="https://i.imgur.com/3ch7Hx7.png" /></div>
+<p align="center"><img src="https://i.imgur.com/3ch7Hx7.png" /></p>
 
 
 
@@ -205,7 +205,7 @@ En difficulté moyenne, la heatmap ressemble généralement à ça lors du premi
 
 Représentation graphique :
 
-<div style="text-align:center"><img src="https://i.imgur.com/Zb43qOi.png" /></div>
+<p align="center"><img src="https://i.imgur.com/Zb43qOi.png" /></p>
 
 ---
 Si la difficulté n'est pas réglée sur facile, la fonction **hunt()** s'exécute et va chercher les bateaux partiellement coulés afin de terminer leur destruction.
@@ -266,7 +266,7 @@ def hunt(self):
                                 pass
 ```
 La Heatmap modifiée ressemble alors à ça :
-<div style="text-align:center"><img src="https://i.imgur.com/kteWLPg.png" /></div>
+<p align="center"><img src="https://i.imgur.com/kteWLPg.png" /></p>
 
 
 ## VII) Captures d'écran
@@ -274,32 +274,32 @@ La Heatmap modifiée ressemble alors à ça :
 ### Écran de placement des bateaux
 
 <br>
-<div style="text-align:center"><img src="https://i.imgur.com/JNvk36R.png" /></div>
+<p align="center"><img src="https://i.imgur.com/JNvk36R.png" /></p>
 <br>
 
 ---
 ### Bateaux placés prêts à être validé
 
 <br>
-<div style="text-align:center"><img src="https://i.imgur.com/aIaHQzZ.png" /></div>
+<p align="center"><img src="https://i.imgur.com/aIaHQzZ.png" /></p>
 <br>
 
 ---
 ### Début de partie
 
 <br>
-<div style="text-align:center"><img src="https://i.imgur.com/GwgEdwe.png" /></div>
+<p align="center"><img src="https://i.imgur.com/GwgEdwe.png" /></p>
 <br>
 
 ---
 ### Partie commencé
 
 <br>
-<div style="text-align:center"><img src="https://i.imgur.com/qmHtoi0.png" /></div>
+<p align="center"><img src="https://i.imgur.com/qmHtoi0.png" /></p>
 <br>
 
 ---
 ### Représentation graphique de la pensée de l'IA durant la partie
 
 <br>
-<div style="text-align:center"><img src="https://i.imgur.com/TbJ6AWq.gif" /></div>
+<p align="center"><img src="https://i.imgur.com/TbJ6AWq.gif" /></p>
